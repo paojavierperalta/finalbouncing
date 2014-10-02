@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# bouncingfinish
+#
+
+projectname: bouncingfinish
+vendorid: com.mycompany
+mainmodule: com.mycompany.bouncingfinish
